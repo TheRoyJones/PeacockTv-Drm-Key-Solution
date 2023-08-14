@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+pwinput==1.0.3
+pywidevine==1.6.0
+Requests==2.31.0
